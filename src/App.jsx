@@ -21,7 +21,7 @@ function App() {
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-blue-500 to-purple-600 text-white py-20">
         <div className="max-w-6xl mx-auto px-4 text-center">
-          <h1 className="text-5xl font-bold mb-6">Welcome to Our Platform</h1>
+          <h1 className="text-5xl font-bold mb-6">Welcome to Our GRK</h1>
           <p className="text-xl mb-8">Transform your business with our innovative solutions</p>
           <button className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all">
             Get Started
